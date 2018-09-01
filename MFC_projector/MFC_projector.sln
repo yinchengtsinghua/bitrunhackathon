@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC_projector", "MFC_projector\MFC_projector.vcxproj", "{34AFAF0A-E01E-4D30-B33D-0AF5EDB18115}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC_projectorHandlers", "MFC_projectorHandlers\MFC_projectorHandlers.vcxproj", "{9B897CE2-E585-4B4F-A018-8A46509DFF83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34AFAF0A-E01E-4D30-B33D-0AF5EDB18115}.Debug|x64.ActiveCfg = Debug|x64
+		{34AFAF0A-E01E-4D30-B33D-0AF5EDB18115}.Debug|x64.Build.0 = Debug|x64
+		{34AFAF0A-E01E-4D30-B33D-0AF5EDB18115}.Debug|x86.ActiveCfg = Debug|Win32
+		{34AFAF0A-E01E-4D30-B33D-0AF5EDB18115}.Debug|x86.Build.0 = Debug|Win32
+		{34AFAF0A-E01E-4D30-B33D-0AF5EDB18115}.Release|x64.ActiveCfg = Release|x64
+		{34AFAF0A-E01E-4D30-B33D-0AF5EDB18115}.Release|x64.Build.0 = Release|x64
+		{34AFAF0A-E01E-4D30-B33D-0AF5EDB18115}.Release|x86.ActiveCfg = Release|Win32
+		{34AFAF0A-E01E-4D30-B33D-0AF5EDB18115}.Release|x86.Build.0 = Release|Win32
+		{9B897CE2-E585-4B4F-A018-8A46509DFF83}.Debug|x64.ActiveCfg = Debug|x64
+		{9B897CE2-E585-4B4F-A018-8A46509DFF83}.Debug|x64.Build.0 = Debug|x64
+		{9B897CE2-E585-4B4F-A018-8A46509DFF83}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B897CE2-E585-4B4F-A018-8A46509DFF83}.Debug|x86.Build.0 = Debug|Win32
+		{9B897CE2-E585-4B4F-A018-8A46509DFF83}.Release|x64.ActiveCfg = Release|x64
+		{9B897CE2-E585-4B4F-A018-8A46509DFF83}.Release|x64.Build.0 = Release|x64
+		{9B897CE2-E585-4B4F-A018-8A46509DFF83}.Release|x86.ActiveCfg = Release|Win32
+		{9B897CE2-E585-4B4F-A018-8A46509DFF83}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B4F62E1-98FD-4418-8081-7CC36D643598}
+	EndGlobalSection
+EndGlobal
